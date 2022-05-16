@@ -1,0 +1,16 @@
+F:\projekt\projekt\bin\Release\projekt.exe.config
+F:\projekt\projekt\bin\Release\projekt.exe
+F:\projekt\projekt\bin\Release\projekt.pdb
+F:\projekt\projekt\bin\Release\MetroFramework.Design.dll
+F:\projekt\projekt\bin\Release\MetroFramework.dll
+F:\projekt\projekt\bin\Release\MetroFramework.Fonts.dll
+F:\projekt\projekt\obj\Release\projekt.Form1.resources
+F:\projekt\projekt\obj\Release\projekt.harmadikoldal.resources
+F:\projekt\projekt\obj\Release\projekt.kezdolap.resources
+F:\projekt\projekt\obj\Release\projekt.masodikoldal.resources
+F:\projekt\projekt\obj\Release\projekt.negyedikoldal.resources
+F:\projekt\projekt\obj\Release\projekt.Properties.Resources.resources
+F:\projekt\projekt\obj\Release\projekt.csproj.GenerateResource.cache
+F:\projekt\projekt\obj\Release\projekt.csproj.CopyComplete
+F:\projekt\projekt\obj\Release\projekt.exe
+F:\projekt\projekt\obj\Release\projekt.pdb

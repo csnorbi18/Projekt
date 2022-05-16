@@ -1,0 +1,35 @@
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\obj\Debug\projekt.Form1.resources
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\obj\Debug\projekt.kezdolap.resources
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\obj\Debug\projekt.masodikoldal.resources
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\obj\Debug\projekt.csprojAssemblyReference.cache
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\obj\Debug\projekt.harmadikoldal.resources
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\obj\Debug\projekt.negyedikoldal.resources
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\bin\Debug\MetroFramework.Design.dll
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\bin\Debug\MetroFramework.dll
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\csnor\OneDrive\Documents\Info\c# gyakorlás\PROJEKT\projekt\projekt\obj\Debug\projekt.csproj.CopyComplete
+D:\projekt\projekt\bin\Debug\projekt.exe.config
+D:\projekt\projekt\bin\Debug\projekt.exe
+D:\projekt\projekt\bin\Debug\projekt.pdb
+D:\projekt\projekt\bin\Debug\MetroFramework.Design.dll
+D:\projekt\projekt\bin\Debug\MetroFramework.dll
+D:\projekt\projekt\bin\Debug\MetroFramework.Fonts.dll
+D:\projekt\projekt\obj\Debug\projekt.csprojAssemblyReference.cache
+D:\projekt\projekt\obj\Debug\projekt.Form1.resources
+D:\projekt\projekt\obj\Debug\projekt.harmadikoldal.resources
+D:\projekt\projekt\obj\Debug\projekt.kezdolap.resources
+D:\projekt\projekt\obj\Debug\projekt.masodikoldal.resources
+D:\projekt\projekt\obj\Debug\projekt.negyedikoldal.resources
+D:\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+D:\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+D:\projekt\projekt\obj\Debug\projekt.csproj.CopyComplete
+D:\projekt\projekt\obj\Debug\projekt.exe
+D:\projekt\projekt\obj\Debug\projekt.pdb
